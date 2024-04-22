@@ -22,7 +22,7 @@
 <h3>👨‍💻 | Other Prorgamming Based Skills</h3>
 <img alt="Programming Skills" src="https://skillicons.dev/icons?i=docker,express,git,mongodb"/>
 
-<h3>⌨️ | IDEs</h3>
+<h3>⌨️ | IDEs & Engines</h3>
 <img alt="Programming Skills" src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,pycharm,robloxstudio"/>
 <br>
 
