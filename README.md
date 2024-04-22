@@ -23,7 +23,7 @@
 <img alt="Programming Skills" src="https://skillicons.dev/icons?i=docker,express,git,mongodb"/>
 
 <h3>⌨️ | IDEs</h3>
-<img alt="Programming Skills" src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,robloxstudio"/>
+<img alt="Programming Skills" src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,pycharm,robloxstudio"/>
 <br>
 
 <h2>💼 | My Business & Production Skills</h2>
