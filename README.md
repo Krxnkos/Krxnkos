@@ -19,7 +19,8 @@
 
 <h2>👨‍💻 | My Programming Languages</h2>
 <img alt="My Languages" src="https://skillicons.dev/icons?i=c,css,html,js,react,py,tailwind"/>
-
+<p>The above languages are programming languages that I have learned throuhgout College and Secondary Educations. These skills have been consolidated in practical solutions, using resources such as LinekdIn Learning or LeetCode problems.<br>
+</p>
 <h3>👨‍💻 | Other Prorgamming Based Skills</h3>
 <img alt="Programming Skills" src="https://skillicons.dev/icons?i=docker,express,git,mongodb"/>
 
