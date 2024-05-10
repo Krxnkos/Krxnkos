@@ -1,24 +1,36 @@
-![Banner Neo](https://github.com/Krxnkos/Krxnkos/assets/145370011/1b471572-c23e-48d4-bb83-07d5a06eea36)
-<a href>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-</a>
+![KrxnkosBanner](https://github.com/Krxnkos/Krxnkos/assets/145370011/6aaaaa5f-d0d4-4df6-9f3f-31d7eb1eaae8)
+<div align="center">
+  <center>
+  <a href>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
+  </center>
+</div>
 <h2>❓ | Who Am I?</h2>
 <p>
-  My name is Krxnkos, known to many as Thomas/Tom. I am a Passionate coder from the United Kingdom, who obsesses over the way that digital systems work. <br>
-  I was introduced to computers at a very young age and have fascinated about how they work and took my fascination of computers to a vast collection of knowlege regarding them. 
-  I began learning to program from the age of 11, where I gained basic python and started by making small interaction-based programs to gain a general knowledge for the language. <br>
-  Since then, I have extended my knowlegde to other languages such as <strong>JavaScript, HTML, CSS and C</strong> and have pushed myself into the direction of Full-Stack Web Development.
+  Hi there, welcome to my profile! My name is Krxnkos, I am a Student and Aspiring Full-Stack Developer currently studying Digital Production Design and Development at College. <br>
+  From a very young age, I have been fascinated by the way the technology works and have always wanted to learn the intricate process of technology. Since the Age of 11, I have introduced myself into the world of programming learing the absolute basics of Python. <br>
+  Since then, I have expanded my knowledge by not only consolidating my python knowledge in College, but also learning new languages in my spare time such as: JavaScript, TypeScript, React Native & NodeJS. <br>
+  To consolidate my knowledge I frequently solve problems on LeetCode where I will practice my JavaScript & Python Knowlegde. <br>
+  In addition to my mainstream knowlegdge of programming, I also have many technical skills such as Computer Maintenance and Networking knowledge.
 </p>
 <br>
 
 <h2>👨‍💻 | My Programming Languages</h2>
-<img alt="My Languages" src="https://skillicons.dev/icons?i=c,css,html,js,react,py,tailwind"/>
+  <a href>
+    <img alt="MongoDB" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+  </a>
 <p>The above languages are programming languages that I have learned throuhgout College and Secondary Educations. These skills have been consolidated in practical solutions, using resources such as LinekdIn Learning or LeetCode problems.<br>
 </p>
 <h3>👨‍💻 | Other Prorgamming Based Skills</h3>
