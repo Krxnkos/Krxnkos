@@ -1,4 +1,4 @@
-![KrxnkosBanner](https://github.com/Krxnkos/Krxnkos/assets/145370011/6aaaaa5f-d0d4-4df6-9f3f-31d7eb1eaae8)
+![Krxnkos Banner](https://github.com/Krxnkos/Krxnkos/assets/145370011/2c3b3521-9229-4555-8270-ddaf3182831a)
 <div align="center">
   <center>
   <a href>
